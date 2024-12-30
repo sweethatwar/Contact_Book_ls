@@ -1,0 +1,35 @@
+body {
+    background-color: #d5dbdb;
+  }
+  
+  .contact-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .form-control, 
+  .btn {
+    border-radius: 20px;
+  }
+  
+  #contactTable th, 
+  #contactTable td {
+    vertical-align: middle;
+    text-align: center;
+  }
+  
+  #contactTable thead {
+    background-color: #343a40;
+    color: #ffffff;
+  }
+  
+  #contactTable tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  #searchInput {
+    margin-top: 20px;
+  }
+  
